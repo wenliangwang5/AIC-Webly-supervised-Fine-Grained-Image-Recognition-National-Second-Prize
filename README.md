@@ -72,3 +72,9 @@ TRAIN_DIR=/data/train DATA_PATH=/data/clean_out TEST_DIR=/data/test_B TASK=5000 
 - `submission400.csv` 或 `submission5000.csv`（推理输出）  
 - `model/` 目录下保存训练权重  
 - `clean_out/` 目录下保存最终数据划分结果  
+
+---
+
+##  竞赛数据集 (๑•̀ㅂ•́)و✧
+
+链接: https://pan.baidu.com/s/18mCgdptiqRjEh7Ys5DXMfw 提取码: pgd8
