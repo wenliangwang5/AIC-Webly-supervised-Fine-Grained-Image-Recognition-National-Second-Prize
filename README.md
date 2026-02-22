@@ -77,4 +77,4 @@ TRAIN_DIR=/data/train DATA_PATH=/data/clean_out TEST_DIR=/data/test_B TASK=5000 
 
 ##  竞赛数据集 (๑•̀ㅂ•́)و✧
 
-链接: https://pan.baidu.com/s/18mCgdptiqRjEh7Ys5DXMfw 提取码: pgd8
+链接: https://pan.baidu.com/s/18mCgdptiqRjEh7Ys5DXMfw 提取码: pgd8 （这里面只有测试集 没有训练集咋办）
